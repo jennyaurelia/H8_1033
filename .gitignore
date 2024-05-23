@@ -22,3 +22,4 @@ num_col_std.txt
 rbs_scaler.pkl
 std_scaler.pkl
 sesi14notes.ipynb
+train.csv
