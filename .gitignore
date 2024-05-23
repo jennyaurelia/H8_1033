@@ -23,3 +23,5 @@ rbs_scaler.pkl
 std_scaler.pkl
 sesi14notes.ipynb
 train.csv
+bank-additional-full.csv
+best_model.pkl
